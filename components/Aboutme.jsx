@@ -1,5 +1,5 @@
 import React from 'react'
-import './style/Aboutme.css'
+import '../style/Aboutme.css'
 const Aboutme = () => {
     return (
         <section>
